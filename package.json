@@ -1,6 +1,7 @@
 {
   "name": "libary-test-22",
   "version": "0.1.0",
+  "private": true,
   "description": "sined277",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
